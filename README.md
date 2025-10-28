@@ -1,8 +1,3 @@
-太棒啦，Ivy 🌸！下面是一个为你量身定制的 **README.md 模板**，适用于你的 wildfire 项目（`DOE_MiniProject2`）。
-你只要把这段复制到项目根目录（和 `.ipynb` 文件放在一起），保存成一个名为 `README.md` 的文件就行。👇
-
----
-
 ## 🌲 DOE Wildfire Mini Project 2
 
 ### 🔍 Project Overview
