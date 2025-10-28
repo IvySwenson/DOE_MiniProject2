@@ -86,7 +86,3 @@ DOE Wildfire Project — UAF Data/AI Lab
 ### 🪶 License
 
 This project is released under the MIT License.
-
----
-
-要不要我帮你把这个 README 再做一个「带封面图和徽章（badges）」的 **GitHub 漂亮版**？那种打开页面就有彩色标题 + dataset + language 徽章，看起来像正式科研 repo 😄
